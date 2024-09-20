@@ -30,3 +30,7 @@ a:hover {
 a:link, a:visited, a:hover, a:active, a:focus {
     color: #0000EE;
 }
+
+footer {
+    text-align: center;
+}
